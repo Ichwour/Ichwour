@@ -5,7 +5,7 @@ Limassol, Cyprus
 
 ## 🔗 Navigation
 - [LinkedIn](https://www.linkedin.com/in/ivan-horbov-9731aa2bb/)
-- [Projects Repository](https://github.com/Ichwour?tab=repositories)
+- [Projects Repository](https://github.com/Ichwour/My-Projects)
 
 ## 📊 About Me
 I am a Data Analyst interested in data analysis and machine learning, continuously developing my skills in both areas.  
