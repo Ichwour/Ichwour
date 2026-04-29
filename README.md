@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ivan Horbov
 
-<!--
-**Ichwour/Ichwour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst / ML-focused  
+Limassol, Cyprus  
 
-Here are some ideas to get you started:
+## 🔗 Navigation
+- [LinkedIn](https://linkedin.com/in/YOUR_LINK)
+- [Projects Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 About Me
+I am a Data Analyst with a strong focus on user behavior analysis and recommendation systems.  
+I have hands-on experience working with real-world messy data, building analytical pipelines, and developing ML-based recommendation approaches.
+
+## 🎓 Education
+**BSc in Applied Mathematics**  
+Kharkiv National University of Radioelectronics (2025)
+
+## 🧠 Skills
+- SQL, Python  
+- Data Analysis (EDA, KPI, Segmentation)  
+- Data Cleaning & Validation  
+- Visualization (Tableau, matplotlib)  
+- Hypothesis Testing / Statistics 
+- Recommender Systems
+
+## 📬 Contact
+- Email: ivanhorbov77@gmail.com
