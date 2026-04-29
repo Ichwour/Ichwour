@@ -4,8 +4,8 @@ Data Analyst / ML-focused
 Limassol, Cyprus  
 
 ## 🔗 Navigation
-- [LinkedIn](https://linkedin.com/in/YOUR_LINK)
-- [Projects Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
+- [LinkedIn](https://www.linkedin.com/in/ivan-horbov-9731aa2bb/)
+- [Projects Repository](https://github.com/Ichwour?tab=repositories)
 
 ## 📊 About Me
 I am a Data Analyst with a strong focus on user behavior analysis and recommendation systems.  
