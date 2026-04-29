@@ -8,8 +8,8 @@ Limassol, Cyprus
 - [Projects Repository](https://github.com/Ichwour?tab=repositories)
 
 ## 📊 About Me
-I am a Data Analyst with a strong focus on user behavior analysis and recommendation systems.  
-I have hands-on experience working with real-world messy data, building analytical pipelines, and developing ML-based recommendation approaches.
+I am a Data Analyst interested in data analysis and machine learning, continuously developing my skills in both areas.  
+I have experience working with real-world data and applying analytical methods to understand patterns and support data-driven decisions.
 
 ## 🎓 Education
 **BSc in Applied Mathematics**  
